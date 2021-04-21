@@ -1,16 +1,26 @@
-### Hi there 👋
+### 👋 Bonjour et bienvenue sur mon GitHub
 
-<!--
-**JulesLassara/JulesLassara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fasciné par l'informatique, je cherche toujours à inover et à concrétiser mes idées. Même si la plupart de mes travaux sont sur des répertoires privés, n'hésitez pas à me contacter pour en savoir plus !
+Je suis actuellement en fin de cursus d'école d'ingénieurs en informatique, en alternance à Thales Alenia Space.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Mes compétences
+
+Ayant une passion pour l'informatique, je suis assez polyvalent. Cette liste non exhaustive est un bon résumé de mes compétences techniques :
+* Développement back-end (NodeJS, Java, PHP...)
+* Développement front-end (HTML/CSS/JS, React...)
+* Bases de données (MySQL, PostgreSQL, MongoDB...)
+* Conception et architecture
+* Linux (administration système, bash...)
+* Docker, Git...
+
+---
+
+### 📫 Contactez-moi !
+
+[✉️ Mail](mailto:jules.lssr@gmail.com) • [💬 Telegram](https://t.me/JulesLassara) • [🐦 Twitter](https://twitter.com/JulesLassara) • [👥 LinkedIn](https://linkedin.com/in/juleslassara)
+
+---
+
+Bonne visite, merci de visiter mon profil 😃
