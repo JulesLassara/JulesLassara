@@ -1,6 +1,6 @@
 ### 👋 Bonjour et bienvenue sur mon GitHub
 
-Fasciné par l'informatique, je cherche toujours à inover et à concrétiser mes idées. Même si la plupart de mes travaux sont sur des répertoires privés, n'hésitez pas à me contacter pour en savoir plus !
+Fasciné par l'informatique, je cherche toujours à inover et à concrétiser mes idées. Même si la plupart de mes travaux sont sur des répertoires privés, n'hésitez pas à me contacter pour en savoir plus, ou pour toute autre demande !
 Je suis actuellement en fin de cursus d'école d'ingénieurs en informatique, en alternance à Thales Alenia Space.
 
 ---
@@ -23,4 +23,4 @@ Ayant une passion pour l'informatique, je suis assez polyvalent. Cette liste non
 
 ---
 
-Bonne visite, merci de visiter mon profil 😃
+Merci de visiter mon profil, à bientôt 😃
