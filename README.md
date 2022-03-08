@@ -8,9 +8,10 @@ Je suis actuellement en fin de cursus d'école d'ingénieurs en informatique, en
 ### 💻 Mes compétences
 
 Ayant une passion pour l'informatique, je suis assez polyvalent. Cette liste non exhaustive est un bon résumé de mes compétences techniques :
-* Développement back-end (NodeJS, Java, PHP...)
-* Développement front-end (HTML/CSS/JS, React...)
-* Bases de données SQL et NoSQL (MySQL, PostgreSQL, MongoDB...)
+* Développement back-end (NodeJS, Java, PHP (même si ce dernier est de moins en moins pertinent)...)
+* Développement front-end (HTML/CSS/JS, React, Angular...)
+* Développement mobile (Java Android, React Native)
+* Bases de données SQL et NoSQL (MySQL, PostgreSQL, Oracle, MongoDB...)
 * Conception et architecture
 * Linux (administration système, bash...)
 * Docker, SonarQube, Git...
