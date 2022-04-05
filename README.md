@@ -1,7 +1,7 @@
 ### 👋 Bonjour et bienvenue sur mon GitHub
 
 Fasciné par l'informatique et par tout projet affairant au spatial, je cherche toujours à innover et à concrétiser mes idées. Même si la plupart de mes travaux sont sur des répertoires privés, n'hésitez pas à me contacter pour en savoir plus, ou pour toute autre demande !
-Je suis actuellement en fin de cursus d'école d'ingénieurs en informatique, en alternance à Thales Alenia Space.
+Je suis actuellement ingénieur logiciel fullstack chez Thales.
 
 ---
 
