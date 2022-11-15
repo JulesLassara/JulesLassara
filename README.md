@@ -21,7 +21,7 @@ Ayant une passion pour l'informatique, je suis assez polyvalent. Cette liste non
 
 ### 📫 Contactez-moi !
 
-[✉️ Mail](mailto:jules.lssr@gmail.com) • [💬 Telegram](https://t.me/JulesLassara) • [🐦 Twitter](https://twitter.com/JulesLassara) • [👥 LinkedIn](https://linkedin.com/in/juleslassara)
+[✉️ Mail](mailto:jules@lassara.fr) • [💬 Telegram](https://t.me/JulesLassara) • [🐦 Twitter](https://twitter.com/JulesLassara) • [👥 LinkedIn](https://linkedin.com/in/juleslassara)
 
 ---
 
